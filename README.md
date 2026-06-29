@@ -98,7 +98,7 @@ divy = {
 </a>
 
 <a href="https://github.com/DivyPanchal11">
-  <img src="https://img.shields.io/badge/GitHub-DivyPanchal11-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:divypanchal217@gmail.com">
