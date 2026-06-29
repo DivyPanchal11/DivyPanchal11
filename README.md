@@ -1,19 +1,19 @@
 # 💫 About Me:
-<pre>
-<span style="color:#7DD3FC;">divy</span> = {
-    <span style="color:#F472B6;">"name"</span>         : <span style="color:#FACC15;">"Divy Panchal"</span>,
-    <span style="color:#F472B6;">"degree"</span>       : <span style="color:#FACC15;">"M.Sc. Information Technology"</span>,
-    <span style="color:#F472B6;">"university"</span>   : <span style="color:#FACC15;">"CHARUSAT University"</span>,
-    <span style="color:#F472B6;">"role"</span>         : <span style="color:#FACC15;">"Flutter Developer · Mobile App Developer"</span>,
-    <span style="color:#F472B6;">"focus"</span>        : [
-        <span style="color:#34D399;">"Flutter"</span>,
-        <span style="color:#34D399;">"Firebase"</span>,
-        <span style="color:#34D399;">"UI/UX"</span>,
-        <span style="color:#34D399;">"Data Analytics"</span>
+```javascript
+const divy = {
+    name: "Divy Panchal",
+    degree: "M.Sc. Information Technology",
+    university: "CHARUSAT University",
+    role: "Software Developer",
+    focus: [
+        "Flutter",
+        "Firebase",
+        "UI/UX",
+        "Data Analytics"
     ],
-    <span style="color:#F472B6;">"fun_fact"</span>     : <span style="color:#FACC15;">"I see code as logic and design as art."</span>
-}
-</pre>
+    fun_fact: "I see code as logic and design as art."
+};
+```
 
 # 💻 Tech Stack
 
