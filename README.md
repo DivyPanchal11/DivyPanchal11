@@ -1,6 +1,6 @@
 # 💫 About Me:
 ```javascript
-const divy = {
+divy = {
     name: "Divy Panchal",
     degree: "M.Sc. Information Technology",
     university: "CHARUSAT University",
