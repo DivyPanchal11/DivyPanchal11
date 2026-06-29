@@ -5,12 +5,7 @@ divy = {
     degree: "M.Sc. Information Technology",
     university: "CHARUSAT University",
     role: "Software Developer",
-    focus: [
-        "Flutter",
-        "Firebase",
-        "UI/UX",
-        "Data Analytics"
-    ],
+    focus: ["Flutter", "Firebase", "UI/UX", "Data Analytics"],
     fun_fact: "I see code as logic and design as art."
 };
 ```
